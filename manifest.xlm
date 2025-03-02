@@ -15,7 +15,7 @@
         <Host Name="Notebook"/>
     </Hosts>
     <DefaultSettings>
-        <SourceLocation DefaultValue="https://yourdomain.com/index.html"/>
+        <SourceLocation DefaultValue="https://lenand2.github.io/chatgpt-office-addin"/>
     </DefaultSettings>
     <Permissions>ReadWriteDocument</Permissions>
 </OfficeApp>
